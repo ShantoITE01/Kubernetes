@@ -238,4 +238,4 @@ Node1 ব্যস্ত, Node2 ফাঁকা → Scheduler Pod-টা Node2 �
 
 ---
 
-
+![Image Alt](https://github.com/ShantoITE01/Kubernetes/blob/c5a94d73f961594857e9a5db4720d4666a7977fb/ChatGPT%20Image%20Oct%205%2C%202025%2C%2009_27_03%20PM.png)
